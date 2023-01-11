@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
 ## Welcome everyone to my spiffy site!
 
+Fear is the mind killer. So is worm.
 
 #### Here are some example pages:
 
